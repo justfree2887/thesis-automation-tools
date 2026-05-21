@@ -111,6 +111,3 @@ python doc_processing/refresh_charts_in_doc.py
 
 MIT
 
-### 👤 Author
-
-[@shiberlin](https://github.com/shiberlin) — Nanjing Agricultural University, College of Engineering
